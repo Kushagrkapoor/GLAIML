@@ -17,6 +17,29 @@ Please follow this sequence for an efficient learning:
     
     B. Ensemble Techniques
 3. Unsupervised Learning
+
+    A. K-Means clustering
+    
+    B. Principle Component Analysis
+    
+4. Featurization, Model Selection and Tuning (Feature Engineering)
+
+    A. Regularization, Cross Validation
+    
+    B. Hyperparameter Tuning, Pipeline
+    
 4. Recommendation Systems
-5. Neural Networks
+
+    A. Content Based, Popularity Based
+    
+    B. Matrix Factorization, Collaborative Filtering, SVD
+    
+5. Introduction to Neural Networks
+
+    A. Introduction
+    
+    B. Building Blocks
+    
+    C. Babysitting the Neural Network
+    
 6. Computer Vision
