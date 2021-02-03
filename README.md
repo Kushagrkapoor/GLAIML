@@ -3,13 +3,13 @@ This contains all the project descriptions, datasets, solutions from my Post Gra
 Please follow this sequence for an efficient learning:
 1. Supervised Learning
 
-  A. Linear Regression
+    A. Linear Regression
 
-  B. Logistic Regression
+    B. Logistic Regression
 
-  C. Naive Bayes and K-Nearest Neighbours
+    C. Naive Bayes and K-Nearest Neighbours
 
-  D. Support Vector Machines
+    D. Support Vector Machines
 
 2. Ensemble Learning
 3. Unsupervised Learning
