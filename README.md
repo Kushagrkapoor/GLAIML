@@ -1,6 +1,6 @@
 # GLAIML
 This contains all the project descriptions, datasets, solutions from my Post Graduate Program in AI-ML, offered by UT Austin and Great Lakes Institute of Management.
-The following topics are covered:
+Please follow this sequence for an efficient learning:
 1. Supervised Learning 
 2. Ensemble Learning
 3. Unsupervised Learning
