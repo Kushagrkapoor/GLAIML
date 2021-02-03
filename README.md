@@ -12,6 +12,10 @@ Please follow this sequence for an efficient learning:
     D. Support Vector Machines
 
 2. Ensemble Learning
+
+    A. Decision Trees
+    
+    B. Ensemble Techniques
 3. Unsupervised Learning
 4. Recommendation Systems
 5. Neural Networks
